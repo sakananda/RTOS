@@ -78,3 +78,6 @@ akan mempengaruhi fungsi LED dan menampilkan nilai ADC jika tombol ditekan.
 
 ## Short Video Hardware
 
+https://github.com/user-attachments/assets/44bb5adc-e802-4848-826e-1fee36dd8c6a
+
+
