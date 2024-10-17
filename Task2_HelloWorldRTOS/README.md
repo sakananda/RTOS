@@ -15,3 +15,4 @@ Proyek ini menggunakan STM32 untuk:
 ![foto hardware task 2](https://github.com/user-attachments/assets/9c4259d6-ec8d-46e1-8ea5-fbfb56483c3b)
 
 ## Short Video Hardware
+s
